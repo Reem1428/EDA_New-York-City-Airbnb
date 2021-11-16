@@ -11,7 +11,7 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
 
 1-Does the price increase or decrease according to the neighborhood?
 
-2-Which type of room do visitors prefer?and why?
+2-Which type of room do visitors prefer?
 
 3-Do neighborhood and prices affect the evaluation?
 
