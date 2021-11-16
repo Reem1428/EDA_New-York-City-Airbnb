@@ -13,7 +13,7 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
 
 2-Which type of room do visitors prefer?and why?
 
-3-Does multiple bookings in the same area affect its evaluation?
+3-Do neighborhood and prices affect the evaluation?
 
 # Data Description:
 
